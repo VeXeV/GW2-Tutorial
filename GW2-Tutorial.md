@@ -282,7 +282,7 @@ Professions come in three armor classes.
 
 ## 4.2 (Professions) Health
 
-Professions come in three health pools. These pools are added on the base health (10,000 at level 80).
+Professions come in three health pools. These Bonuses are added on the base health (10,000 at level 80).
 
 | Base health gained per level         |  1-19  |  20-39 | 40-59 | 60-79 |  80   | Total at level 80 |
 | -------------------------------------|--------|--------|-------|-------|-------|-------------------|
